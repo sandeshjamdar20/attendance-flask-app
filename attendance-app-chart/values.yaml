@@ -29,7 +29,7 @@ dbPassword: AgB/wVJBq6+ZuIESmS1AmG8JVPWpqees51SCKcvAoozxMqQM8FH9ya2LAx/j0ZiR+x3q
 
 config:
   name: db-config
-  DB_HOST: database-1.cluster-cjo2qwqge1cu.ap-south-1.rds.amazonaws.com
+  DB_HOST: DB_HOST: database-1.cluster-c8b4yi0mqdjc.us-east-1.rds.amazonaws.com
   DB_PORT: "5432"
   DB_NAME: postgres
 
