@@ -5,6 +5,6 @@ metadata:
 data:
   DB_USER: "postgres"
   DB_PASSWORD: "postgres"
-  DB_HOST: "attendance-db.cluster-c8b4yi0mqdjc.us-east-1.rds.amazonaws.com"
+  DB_HOST: attendance-db.cluster-c8b4yi0mqdjc.us-east-1.rds.amazonaws.com
   DB_PORT: "5432"
   DB_NAME: "postgres"
